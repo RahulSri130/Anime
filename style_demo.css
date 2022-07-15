@@ -1,0 +1,19 @@
+/* h3{
+    color: brown
+}
+p::first-letter{
+    color:cadetblue;
+}
+li{
+    list-style-type: square;
+}
+.special
+{
+    color:chartreuse;
+}
+h1+p{
+    font-size: 400%;
+}
+a:hover{
+    color:chartreuse;
+} */
